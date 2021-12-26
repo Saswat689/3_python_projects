@@ -15,3 +15,10 @@ By default I have added all the projects to a single file. If you want to use on
 
 ## Examples
 
+![example1](https://github.com/Saswat689/3_python_projects/blob/main/Screenshot%20(58).png?raw=true)
+
+![example2](https://github.com/Saswat689/3_python_projects/blob/main/Screenshot%20(59).png?raw=true)
+
+![example3](https://github.com/Saswat689/3_python_projects/blob/main/Screenshot%20(60).png?raw=true)
+
+![example4](https://github.com/Saswat689/3_python_projects/blob/main/Screenshot%20(61).png?raw=true)
